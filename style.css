@@ -34,5 +34,5 @@ div {
   display: flex;
   /* overflow-x: scroll; */
   width: fit-content;
-  width: moz-fit-content;
+  width: -moz-fit-content;
 }
